@@ -432,8 +432,12 @@ aside {
     display: none;
   }
 
-  .product-detail {
-    width: 100%;
+  #productDetail {
+    min-width: 100%;
+  }
+
+  #shoppingCartContainer {
+    min-width: 100%;
   }
 
   .card-container {
